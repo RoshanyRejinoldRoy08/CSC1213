@@ -1,0 +1,22 @@
+Date : 12.03.2025
+Practical Number : 03
+Problem Specification : Operators in Java Programming.
+Implementation : 
+class Ex3{
+	public static void main(String[]args)
+	{int num1=25;
+	int num2=30;
+	System.out.println("Addition is="+(num1+num2));
+	System.out.println("subraction is ="+( num1-num2));
+	System.out.println("multiplication is="+(num1*num2));
+	System.out.println("division is="+(num1/num2));
+	}
+}
+
+Output:
+Addition is=55
+subraction is =-5
+multiplication is=750
+division is =0
+
+Conclusion : I learned how to use operators in java programming
