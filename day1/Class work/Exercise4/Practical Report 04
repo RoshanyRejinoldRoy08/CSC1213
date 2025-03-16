@@ -2,7 +2,7 @@ Date : 12.03.2025
 Practical Number : 04
 Problem Specification : Typecasting in Java
 Implementation : 
-class Ex3{
+class Ex4{
 	public static void main(String [] args){
 		boolean isbool =true;
 		System.out.println("Boolean : "+isbool);
