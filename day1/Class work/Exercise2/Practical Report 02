@@ -2,7 +2,7 @@ Date : 12.03.2025
 Practical Number : 02
 Problem Specification : Declare and Intialization of the Variables.
 Implementation : 
-class ex02
+class EX2
 {
 	public static void main(String[] args)
 	{
