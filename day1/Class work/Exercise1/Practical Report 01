@@ -2,15 +2,15 @@ Date : 12.03.2025
 Practical Number : 01
 Problem Specification : Introduction of Java Programming.
 Implementation : 
-class myfirstjavaprogram
+class Myfirstjavaprogram
 {
 	public static void main(String[] args)
 {
-System.out.println("my first programme in java");
-System.out.println("hello java developers !!!");
+System.out.println("My first programme in java");
+System.out.println("Hello java developers !!!");
 }
 }	
 Output : 
-my first programme in java
-hello java developers !!!
+My first programme in java
+Hello java developers !!!
 Conclusion : We have understood the program in java to print the statements
